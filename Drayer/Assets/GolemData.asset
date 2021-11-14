@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 392b9de4440ffc94ab4b14c44c9b5bfb, type: 3}
+  m_Name: GolemData
+  m_EditorClassIdentifier: 
+  monsterStat:
+  - name: Golem
+    enemyHealth: 100
+    attackCooldown: 5
+    attackPower: 5
+    enemySpeed: 1
+    enemyPushbackPower: 100
+    sightRange: 25
+    attackRange: 2
+  - name: Skeleton
+    enemyHealth: 50
+    attackCooldown: 3
+    attackPower: 5
+    enemySpeed: 1.5
+    enemyPushbackPower: 100
+    sightRange: 15
+    attackRange: 5

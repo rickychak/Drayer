@@ -1,0 +1,71 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 975e7483071222f4eb9039fa117cebf3, type: 3}
+  m_Name: PlayerData
+  m_EditorClassIdentifier: 
+  speed: 1.5
+  attackPower: 4
+  heavyPower: 8
+  playerArmor: 3
+  attackCD: 2
+  heavyCD: 5
+  pushback: 300
+  attackRange: 8
+  heavyRange: 10
+  health: 100
+  currHealth: 91.65085
+  tempMoneyHolder: 20
+  money: 360
+  weaponType: 2
+  weaponChoice: 2
+  weaponBought: 0000
+  weaponPrice: 32000000c8000000
+  stageProcess: 0000000000000000
+  stageChosen: 1
+  skillBoost:
+  - skillName: Fire
+    skillDuration: 3
+    isSkillOn: 0
+  - skillName: Ice
+    skillDuration: 3
+    isSkillOn: 0
+  - skillName: Armor
+    skillDuration: 3
+    isSkillOn: 0
+  - skillName: Circular Motion
+    skillDuration: 3
+    isSkillOn: 0
+  _weaponStat:
+  - weaponName: Default Weapon
+    speed: 2
+    attackPower: 5
+    heavyPower: 10
+    attackCD: 1.3
+    heavyCD: 4
+    attackRange: 6
+    heavyRange: 8
+  - weaponName: Axe
+    speed: 1.5
+    attackPower: 8
+    heavyPower: 16
+    attackCD: 2.5
+    heavyCD: 6
+    attackRange: 4
+    heavyRange: 6
+  - weaponName: Spear
+    speed: 1.5
+    attackPower: 4
+    heavyPower: 8
+    attackCD: 2
+    heavyCD: 5
+    attackRange: 8
+    heavyRange: 10

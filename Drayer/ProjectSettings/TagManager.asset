@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - GroundCheck
+  - Slope
+  - Monster
+  - Camera
+  - Crosshair
+  - Joystick
+  - Portal
+  - EnemyHealth
+  - Dead
+  - Block
+  - Weapon
+  - Projectile
+  - SkillBoost
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Projectile
+  - Water
+  - UI
+  - Ground
+  - Player
+  - Light Stand
+  - Wall
+  - Roof
+  - Monster
+  - Portal
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: StageImage
+    uniqueID: 2156562499
+    locked: 0
